@@ -1,4 +1,4 @@
-module github.com/makkes/dep
+module github.com/makkes/dep/v1
 
 go 1.13
 
