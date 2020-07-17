@@ -1,4 +1,4 @@
-package dep
+package v2
 
 import (
 	"fmt"
@@ -7,5 +7,5 @@ import (
 )
 
 func Version() string {
-	return fmt.Sprintf("v0.0.7 (dep2 %s)", dep2.Version())
+	return fmt.Sprintf("v2.0.0 (dep2 %s)", dep2.Version())
 }
